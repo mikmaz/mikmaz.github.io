@@ -1,12 +1,11 @@
 ---
 permalink: /
-# title: "Hi, I'm Mikolaj!"
+title: "Hi, I'm Mikolaj!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Hi, I'm Mikolaj!
 
 I’m a first-year PhD student at the [University of Copenhagen](https://www.ku.dk/en), affiliated with the [Pioneer Center for AI](https://www.aicentre.dk), under the supervision of [Christian Igel](https://christian-igel.github.io), with [Sebastian Weichwald](https://sweichwald.de) and [Yevgeny Seldin](https://sites.google.com/site/yevgenyseldin/home) as co-supervisors. In my research I’m interested in developing robust uncertainty quantification methods for machine learning (ML) and applying them to earth observation tasks with a mission to ensure that ML-driven environmental solutions are both reliable and impactful.
 

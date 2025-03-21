@@ -7,7 +7,7 @@ redirect_from:
 layout: archive
 ---
 
-- Ph.D. in Machine Learning, University of Copenhagen, Copenhagen, Denmark (present)
+- Ph.D. in Machine Learning, University of Copenhagen, Copenhagen, Denmark (2024-present)
 - M.Sc. in Computer Science, University of Copenhagen, Copenhagen, Denmark (2021-2023)
 - B.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2018-2021)
 
